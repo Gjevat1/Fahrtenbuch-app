@@ -1,0 +1,11 @@
+Fahrtenbuch Trendfloor - Installation
+
+1. ZIP-Datei entpacken (auf dem Handy: Dateien-App, ZIP antippen, "Entpacken").
+2. Auf github.com ins Repository gehen: Add file > Upload files.
+3. Diese 5 Dateien hochladen (gleich benannte werden ersetzt):
+   index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png
+4. "Commit changes" tippen. Die LIESMICH-Datei muss nicht hochgeladen werden.
+5. Settings > Pages: Branch main, Ordner / (root). Link auf dem Handy in Chrome
+   oeffnen, einmal mit Internet laden, dann Menue > "App installieren".
+
+Vor einem Update in der App unter Einstellungen ein Backup speichern.
